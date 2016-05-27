@@ -1,13 +1,11 @@
 {
-  "name": "onerf.library.coreui",
+  "name": "sample",
   "version": "1.0.0",
-  "description": "CoreUI partner project",
+  "description": "sample",
   "main": "index.js",
   "repository": {
-    "type": "git",
-    "url": "https://microsoft.visualstudio.com/DefaultCollection/Universal%20Store/_git/OneRF.Library.CoreUI"
+    "type": "git"
   },
-  "author": "bruk",
   "license": "ISC",
   "devDependencies": {
     "ts-loader": "^0.8.2",
