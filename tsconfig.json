@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "module": "amd",
+    "noImplicitAny": true,
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "target": "es5",
+    "baseUrl": "D:\\tsLoaderFailingWithModuleNodeResolution",
+    "paths": {
+      "*": [
+        "*",
+        "src/extension/*",
+        "src/utility/*"
+      ]
+    }
+  }
+}
