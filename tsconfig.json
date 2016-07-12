@@ -5,7 +5,7 @@
     "moduleResolution": "node",
     "sourceMap": true,
     "target": "es5",
-    "baseUrl": "D:\\tsLoaderFailingWithModuleNodeResolution",
+    "baseUrl": "D:\\temp\\sample",
     "paths": {
       "*": [
         "*",
